@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Banana skill generated images and local state
+output/
